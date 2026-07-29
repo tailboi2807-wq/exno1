@@ -245,5 +245,5 @@ ir1
 <img width="762" height="532" alt="image" src="https://github.com/user-attachments/assets/b44964a7-a161-4cd0-8d31-c6f641b810bf" />
 
 # Result
-          <<include your Result here>>
+
           Thus the given data successfully performed data cleaning and saved the cleaned data to a file
